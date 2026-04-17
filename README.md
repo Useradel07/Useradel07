@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Adel Rjili</h1>
 <h3 align="center">A passionate web developer from Tunisia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=useradel07" alt="useradel07" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://adel-rjili.vercel.app/](https://adel-rjili.vercel.app/)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+- 👨‍💻 All of my projects are available at [https://adel-rjili.vercel.app/](adel-rjili.com)
 
 - 📫 How to reach me **adel.rjili@isimg.tn**
 
-- 📄 My linkedin [https://www.linkedin.com/in/adel-rjili-342191227/](https://www.linkedin.com/in/adel-rjili-342191227/)
+- 📄 My linkedin [https://www.linkedin.com/in/adel-rjili-342191227/](adel-rjili)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
