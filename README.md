@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Tunisia</h3>
 
 <p align="left"> 
-- 👨‍💻 All of my projects are available at [https://adel-rjili.vercel.app](https://adel-rjili.vercel.app)
+- 👨‍💻 All of my projects are available at [https://adel-rjili.vercel.app/](https://adel-rjili.vercel.app)
 
 - 📫 How to reach me **adel.rjili@isimg.tn**
 
